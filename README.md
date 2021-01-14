@@ -1,2 +1,3 @@
 # hello-world
-First repository
+
+This our first repository by Nikitka and Egorka
